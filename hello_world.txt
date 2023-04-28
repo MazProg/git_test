@@ -1,2 +1,3 @@
-Adding some text to this file. Hello World!
+Adding some text to this file.
 A new line added for testing, WOOOHOOOO!
+I deleted "Hello World!" on the first line.
